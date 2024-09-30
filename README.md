@@ -1,7 +1,6 @@
 # Desktop Weather App
 
-## Video Demo
-[https://youtu.be/XQ6RgDq7RM8?si=OkqP_K1ld0lUhWwa](https://youtu.be/XQ6RgDq7RM8?si=OkqP_K1ld0lUhWwa)
+## Video Demo : [https://youtu.be/XQ6RgDq7RM8?si=OkqP_K1ld0lUhWwa](https://youtu.be/XQ6RgDq7RM8?si=OkqP_K1ld0lUhWwa)
 
 ## Project Description
 The Desktop Weather App is a user-friendly application designed to provide real-time weather information for any city worldwide. Built using Python and PyQt5, this app fetches weather data from the OpenWeatherMap API, allowing users to easily check current weather conditions and temperatures in a visually appealing interface. 
